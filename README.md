@@ -93,7 +93,9 @@ await _auth.signOut();
 
 ## Screens
 `login_screen.dart` : Screen for users to log in with email and password.
+
 `create_account_screen.dart` : Screen for users to create a new account by providing email and password.
+
 `home_screen.dart` : Main screen that users will see once logged in. Accessible only after authentication.
 
 ## Running the App
